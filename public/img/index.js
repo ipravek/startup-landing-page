@@ -1,0 +1,11 @@
+export const hero = require("./hero.png");
+export const about1 = require("./about-1.svg");
+export const about2 = require("./about-2.svg");
+export const about3 = require("./about-3.svg");
+export const blog1 = require("./group1.png");
+export const blog2 = require("./group2.png");
+export const case1 = require("./case1.svg");
+export const case2 = require("./case2.svg");
+export const case3 = require("./case3.svg");
+export const case4 = require("./case4.svg");
+export const projectSection = require("./projectSection.png");
